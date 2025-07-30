@@ -1,38 +1,44 @@
-# ChohanTextile
-A Ecommerence reactive native mobile app ChohanTextile with firebase . 
-# Features
-##Admin
-- Admin shall be able to login in .
-- Admin shall be able to add product .
-- Admin shall be able to edit product .
-- Admin shall be able to remove product .
-##Customer
-- Customer shall be able to sign up (using firebase) .
-- Customer shall be able to log in (using firebase) .
-- Customer shall be able to reset its password (using firebase) .
-- Customer shall be able to to view products description.
-- Customer shall be able to add product into cart.
-- Customer shall be able to checkout the cart.
-- Customer shall be able to do payment using stripe.
-- Customer shall be able to filter products .
-- Customer shall be able to search products .
-- Customer shall be able to view social media pages using built in links.
-- Customer shall be able to view order history .
+# 🧵 ChohanTextile
 
-#Technology used
--React native
--Firebase
--node js
+A full-featured **React Native e-commerce mobile app** powered by **Firebase** for backend and **Stripe** for payments.
 
-#How to run
-##1st start expo 
+---
 
-- cd chohan-textile
-- npx expo start
+## 🚀 Features
 
-## 2nd start server
+### 👨‍💼 Admin
+- Admin can log in.
+- Admin can add products.
+- Admin can edit products.
+- Admin can delete products.
 
--cd stripe-server
--node server.js
+### 🛍️ Customer
+- Sign up using Firebase Authentication.
+- Login using Firebase Authentication.
+- Reset password via Firebase.
+- View product descriptions.
+- Add products to cart.
+- Checkout cart.
+- Make payments via Stripe.
+- Filter products by category.
+- Search for products.
+- View linked social media pages.
+- View order history.
 
+---
 
+## 🛠️ Technologies Used
+- **React Native** (Expo)
+- **Firebase** (Auth, Realtime DB, Storage)
+- **Node.js** (Express server for Stripe)
+- **Stripe** (for secure payments)
+
+---
+
+## 📸 Screenshots
+
+> Place your images in a folder like `/assets` and use the format below.
+
+```markdown
+![Home Screen](assets/home.png)
+![Cart](assets/cart.png)
