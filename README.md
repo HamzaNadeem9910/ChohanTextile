@@ -37,4 +37,80 @@ A full-featured **React Native e-commerce mobile app** powered by **Firebase** f
 
 ## 📸 Screenshots
 
-![Login Screen](account.png)
+### 🏠 Home Screen
+<p align="center">
+  <img src="snapshoots/IMG_0308.png" width="300"/>
+</p>
+
+### 📦 Product List
+<p align="center">
+  <img src="snapshoots/IMG_0309.png" width="300"/>
+</p>
+
+### 💰 Filter by Price
+<p align="center">
+  <img src="snapshoots/IMG_0310.png" width="300"/>
+</p>
+
+### 🧵 Filter by Category
+<p align="center">
+  <img src="snapshoots/IMG_0311.png" width="300"/>
+</p>
+
+### 🛒 Product Cart
+<p align="center">
+  <img src="snapshoots/IMG_0312.png" width="300"/>
+</p>
+
+### 💳 Checkout
+<p align="center">
+  <img src="snapshoots/IMG_0313.png" width="300"/>
+</p>
+
+### 🧾 Stripe Payment
+<p align="center">
+  <img src="snapshoots/IMG_0314.png" width="300"/>
+</p>
+
+### ☎️ Call Support Page
+<p align="center">
+  <img src="snapshoots/IMG_0315.png" width="300"/>
+</p>
+
+### 📜 Order History
+<p align="center">
+  <img src="snapshoots/IMG_0316.png" width="300"/>
+</p>
+
+---
+
+## 👥 Authentication Screens
+
+### 🔑 Login Selection
+<p align="center">
+  <img src="snapshoots/IMG_0317.png" width="300"/>
+</p>
+
+### 🧍 Customer Signup
+<p align="center">
+  <img src="snapshoots/IMG_0318.png" width="300"/>
+</p>
+
+### 🔄 Reset Password
+<p align="center">
+  <img src="snapshoots/IMG_0319.png" width="300"/>
+</p>
+
+---
+
+## 🛠️ Admin Screens
+
+### 🗃️ Manage Products
+<p align="center">
+  <img src="snapshoots/IMG_0321.png" width="300"/>
+</p>
+
+### ➕ Add Product
+<p align="center">
+  <img src="snapshoots/IMG_0322.png" width="300"/>
+</p>
