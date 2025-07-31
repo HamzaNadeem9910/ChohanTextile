@@ -33,6 +33,23 @@ A full-featured **React Native e-commerce mobile app** powered by **Firebase** f
 - **Node.js** (Express server for Stripe)
 - **Stripe** (for secure payments)
 
+## 🧪 How to Run the Project
+
+### 📱 1st Step: Start Mobile App
+
+- cd chohan-textile
+- npm install 
+- expo install expo-router expo-image-picker expo-status-bar
+- npm install firebase @stripe/stripe-react-native
+- npm install react-native-vector-icons react-native-svg
+- npx expo start
+
+## 🌐 2nd Step: Start Stripe Server
+- cd stripe-server
+- npm install express stripe cors dotenv
+- node server.js
+
+
 ---
 
 ## 📸 Screenshots
